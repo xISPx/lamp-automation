@@ -30,7 +30,7 @@
    ```
 4. Проверьте:
    - Лог: `/var/log/lamp_install_YYYYMMDDHHMMSS.log`
-   - MySQL: `mysql -u root -p` (пароль в логе) удалите лог по завершении установки
+   - MySQL: `mysql -u root -p` (пароль в логе) удалите лог после завершения установки
    - PHP: откройте `http://<IP>/info.php`
 
 ## Основные шаги скрипта
